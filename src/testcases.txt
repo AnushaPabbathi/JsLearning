@@ -1,0 +1,10 @@
+#1
+use 2 text fields to take user inputs, first text field to add the elements and second text field to remove the elements
+#2
+use 2 buttons to perform add/remove function 
+#3
+user inputs from 1st text field will add to an empty array when clicking on add button 
+#4
+user inputs from 2nd text field will remove from ann array when clicking on remove button 
+#5
+do not add to an array when element is repeating 

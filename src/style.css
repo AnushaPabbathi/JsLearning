@@ -1,0 +1,26 @@
+html{
+    background-color: rosybrown;
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+h3{
+    font-family:cursive;
+    font-style:italic;
+}
+form{
+    font-weight: bold;
+    color:darkblue;
+}
+button{
+    background-color:darkslategray;
+    color: white;
+    font-weight:bold;
+    border-radius: 5em;
+    font-family: fantasy;
+}
+#welcome{
+    background-color: rgb(153, 82, 123);
+    width: 400px;
+}
